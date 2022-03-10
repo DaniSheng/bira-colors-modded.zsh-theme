@@ -37,6 +37,7 @@ function set_theme {
   sed -i.bak -e "s/^ZSH_THEME=[\"']\{0,1\}[A-Za-z0-9\._-]*[\"']\{0,1\}/ZSH_THEME=\"$1\"/1" $HOME/.zshrc
 }
 
+echo ""
 echo "Installing ..."
 
 fetch_file $THEME_ZSH_FILE $ZSH_CUSTOM/themes
