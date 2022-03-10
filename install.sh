@@ -43,7 +43,9 @@ fetch_file $THEME_ZSH_FILE $ZSH_CUSTOM/themes
 set_theme bira-colors-modded
 
 printf "$GREEN"
+echo ""
 echo "bira-colors-modded.zsh-theme defined"
+echo ""
 printf "$RESET"
 
 env zsh -l
