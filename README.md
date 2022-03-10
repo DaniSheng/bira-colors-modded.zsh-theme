@@ -18,7 +18,7 @@ local user_host="%B%(!.%{$fg[red]%}.%{$fg[green]%})%n%{$fg[white]%}@%{$fg[cyan]%
 
   https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH#ubuntu-debian--derivatives-windows-10-wsl--native-linux-kernel-with-windows-10-build-1903
 
-  Ubuntu, Debian & derivatives (Windows 10 WSL | Native Linux kernel with Windows 10 build 1903)
+  Ubuntu, Debian & derivatives (WSL on Windows 10)
 
 sudo apt-get install zsh zsh-common zsh-doc
 
