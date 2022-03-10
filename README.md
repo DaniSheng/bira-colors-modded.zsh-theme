@@ -20,6 +20,6 @@ _*Via curl*_
 
 _Copy, Paste and press Enter... this:_
 
-<code>bash -c "$(curl -fsSLN https://raw.githubusercontent.com/DaniSheng/bira-colors-modded.zsh-theme/master/install.sh)"</code>
+`bash -c "$(curl -fsSLN https://raw.githubusercontent.com/DaniSheng/bira-colors-modded.zsh-theme/master/install.sh)"`
 
 
