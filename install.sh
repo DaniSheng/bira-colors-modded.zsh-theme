@@ -45,7 +45,7 @@ set_theme bira-colors-modded
 
 printf "$GREEN"
 echo ""
-echo "bira-colors-modded.zsh-theme defined"
+echo "bira-colors-modded.zsh-theme defined!"
 echo ""
 printf "$RESET"
 
