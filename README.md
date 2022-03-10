@@ -10,9 +10,14 @@ local user_host="%B%(!.%{$fg[red]%}.%{$fg[green]%})%n@%m%{$reset_color%} "
 ### New: 
 local user_host="%B%(!.%{$fg[red]%}.%{$fg[green]%})%n%{$fg[white]%}@%{$fg[cyan]%}%m%{$reset_color%} "
 
+![screenshot-preview](https://github.com/DaniSheng/bira-colors-modded.zsh-theme/blob/main/bira-colors-modded_screenshot.png)
 
-## TO INSTALL ON oh-my-zsh
+## TO INSTALL ON _oh-my-zsh_
 
-[code]bash -c "$(curl -fsSLN https://raw.githubusercontent.com/DaniSheng/bira-colors-modded.zsh-theme/master/install.sh)"[/code]
+On ZSH with on-my-zsh:
+
+_Copy, Paste and press Enter..._
+
+<code>bash -c "$(curl -fsSLN https://raw.githubusercontent.com/DaniSheng/bira-colors-modded.zsh-theme/master/install.sh)"</code>
 
 
