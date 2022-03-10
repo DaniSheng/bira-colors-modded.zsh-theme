@@ -16,11 +16,11 @@ local user_host="%B%(!.%{$fg[red]%}.%{$fg[green]%})%n%{$fg[white]%}@%{$fg[cyan]%
 
 * INSTALLING ZSH *
 
-  https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH#ubuntu-debian--derivatives-windows-10-wsl--native-linux-kernel-with-windows-10-build-1903
+https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH#ubuntu-debian--derivatives-windows-10-wsl--native-linux-kernel-with-windows-10-build-1903
 
-  Ubuntu, Debian & derivatives (WSL on Windows 10)
+Ubuntu, Debian & derivatives (WSL on Windows 10)
 
-sudo apt-get install zsh zsh-common zsh-doc
+`sudo apt-get install zsh zsh-common zsh-doc`
 
 
 ## 2 - SECOND
@@ -29,19 +29,19 @@ sudo apt-get install zsh zsh-common zsh-doc
 
 Basic Installation
 
-  https://github.com/robbyrussell/oh-my-zsh#basic-installation
+https://github.com/robbyrussell/oh-my-zsh#basic-installation
 
-  Oh My Zsh is installed by running one of the following commands in your terminal. You can install this via the command-line with either curl or wget.
+Oh My Zsh is installed by running one of the following commands in your terminal. You can install this via the command-line with either curl or wget.
 
-  * via curl *
+* via curl *
 
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
-  * via wget *
+* via wget *
 
 `sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
-  * Change your default shell *
+* Change your default shell *
 
 `sudo chsh -s $(which zsh)`
 
@@ -56,5 +56,3 @@ _*Via curl*_
 _Copy, Paste and press Enter... this:_
 
 `bash -c "$(curl -fsSLN https://raw.githubusercontent.com/DaniSheng/bira-colors-modded.zsh-theme/master/install.sh)"`
-
-
