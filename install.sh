@@ -1,7 +1,7 @@
 #!/usr/bin/env zsh
 
 THEME_ZSH_FILE=https://raw.githubusercontent.com/DaniSheng/bira-colors-modded.zsh-theme/master/bira-colors-modded.zsh-theme
-ZSH_CUSTOM=${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom/themes}
+ZSH_CUSTOM=${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom/}
 
 function init_colors {
   if which tput >/dev/null 2>&1; then
