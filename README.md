@@ -12,6 +12,8 @@ local user_host="%B%(!.%{$fg[red]%}.%{$fg[green]%})%n%{$fg[white]%}@%{$fg[cyan]%
 
 ![screenshot-preview](https://github.com/DaniSheng/bira-colors-modded.zsh-theme/blob/main/bira-colors-modded_screenshot.png)
 
+# [If You have Oh My ZSH installed, can hope to 3 - THIRD step ...](https://github.com/DaniSheng/bira-colors-modded.zsh-theme/blob/main/README.md#3---third)
+
 ## 1 - FIRST
 
 * INSTALLING ZSH
