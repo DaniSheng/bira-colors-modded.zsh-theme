@@ -4,8 +4,10 @@
 
 ### Just added and modded colors to easy visualization on local user_host.
 
-### Old: local user_host="%B%(!.%{$fg[red]%}.%{$fg[green]%})%n@%m%{$reset_color%} "
+### Old:
+local user_host="%B%(!.%{$fg[red]%}.%{$fg[green]%})%n@%m%{$reset_color%} "
 
-### New: local user_host="%B%(!.%{$fg[red]%}.%{$fg[green]%})%n%{$fg[white]%}@%{$fg[cyan]%}%m%{$reset_color%} "
+### New: 
+local user_host="%B%(!.%{$fg[red]%}.%{$fg[green]%})%n%{$fg[white]%}@%{$fg[cyan]%}%m%{$reset_color%} "
 
 
